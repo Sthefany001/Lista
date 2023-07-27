@@ -1,0 +1,15 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\bin\Debug\net6.0\02 - Array.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\bin\Debug\net6.0\02 - Array.deps.json
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\bin\Debug\net6.0\02 - Array.runtimeconfig.json
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\bin\Debug\net6.0\02 - Array.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\bin\Debug\net6.0\02 - Array.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\02 - Array.csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\02 - Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\02 - Array.AssemblyInfoInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\02 - Array.AssemblyInfo.cs
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\02 - Array.csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\02 - Array.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\refint\02 - Array.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\02 - Array.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\02 - Array.genruntimeconfig.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\02 - Array\02 - Array\obj\Debug\net6.0\ref\02 - Array.dll
