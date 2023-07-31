@@ -1,12 +1,16 @@
 ﻿List<string> lista1 = new List<string>();
 //lista1.Add(Console.ReadLine());
-lista1.Add("Anna"); //Adicionar elemento na lista
+lista1.Add("Anna"); //Adicionar elemento na lista (final da lista)
 lista1.Add("Alex");
 lista1.Add("Maria");
+lista1.Insert(0, "Lucas");//Insere um elemento em uma posição (específico)
 
-Console.WriteLine(lista1[2]);
+lista1.RemoveAt(1); //Remove elemento (posição)
+lista1.Remove("Alex"); //Remove elemento (nome)
+
+//Console.WriteLine(lista1[2]);
 //int tamanho = lista1.Count;
-Console.WriteLine(lista1.Count);
+//Console.WriteLine(lista1.Count);
 
 foreach (string str in lista1)
 {
